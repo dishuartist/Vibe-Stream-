@@ -1,0 +1,6 @@
+{
+  "name": "Vibe Songs - Stream, Lyrics & Offline Music Player",
+  "description": "Stream full-length songs with zero cuts, interactive synchronized karaoke lyrics via LRCLIB, offline downloads, curated charts, and custom playlists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
